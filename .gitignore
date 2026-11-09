@@ -1,0 +1,9 @@
+# Private sales databases
+*.db
+
+# Exported sales data
+sales_export.csv
+
+# Python temporary files
+__pycache__/
+*.pyc
